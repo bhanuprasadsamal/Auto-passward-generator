@@ -1,0 +1,28 @@
+{
+    "name": "Passward generater PWA",
+    "short_name": "Passward generater PWA",
+    "start_url": ".",
+    "background_color": "#2980b9",
+    "theme_color": "#009578",
+    "display": "fullscreen",
+    "icons": [
+        
+        {
+            "src": "images/logo.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/i192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        
+        {
+            "src": "images/i512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
